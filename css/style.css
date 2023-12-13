@@ -1,4 +1,6 @@
-header
+body{
+    margin:0;
+}
 
 .nav-header{ 
     height: 35px;
